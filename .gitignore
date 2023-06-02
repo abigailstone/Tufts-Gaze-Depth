@@ -1,0 +1,16 @@
+# notebook stuff  
+notebooks/* 
+*.ipynb 
+*.ipynb_checkpoints
+
+# experiments etc. 
+experiments/* 
+
+# saved model 
+trained_models/*
+
+# pycache 
+__pycache__/
+
+# submission stuff 
+spie/*
